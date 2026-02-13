@@ -824,6 +824,7 @@ footer .logo-text {
     margin: 60px auto;
     text-align: center;
     min-height: 90px;
+    display: none;
 }
 
     .ad-block::before {
@@ -869,6 +870,7 @@ footer .logo-text {
     text-align: center;
     min-height: 250px; /* rectangle boyutu için */
     position: relative;
+    display: none;
 }
 
     .ad-sidebar::before {
